@@ -33,6 +33,6 @@ Currently, I am learning the fundamentals of operating systems, networking, trou
 - Contribute to security-focused open-source projects  
 
 📫 **Connect with me:**  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+🔗 Creating A Cyborg: [github.com/price2high/Creating-a-Cyborg](https://github.com/price2high/Creating-a-Cyborg)  
 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 ```
