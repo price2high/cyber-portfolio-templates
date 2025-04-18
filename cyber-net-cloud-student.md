@@ -1,7 +1,7 @@
 ## 🔹 Cybersecurity, Networking, and Cloud Student
 
 👩‍💻(female) Timorra Rogo 
-**Cybersecurity, Networking, and Cloud Student | The Knowledge House 
+**Cybersecurity, Networking, and Cloud Student** | The Knowledge House 
 
 📌 **About Me:**  
 I am a dedicated Cybersecurity, Networking, and Cloud Student with a passion for understanding how technology and security work together.
