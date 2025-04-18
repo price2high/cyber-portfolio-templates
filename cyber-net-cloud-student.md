@@ -1,11 +1,11 @@
 ## 🔹 Cybersecurity, Networking, and Cloud Student
 
-# 👨‍💻(male) or 👩‍💻(female) [Your Name]  
-**Cybersecurity, Networking, and Cloud Student | [Your Training School Name]**  
+👩‍💻(female) Timorra Rogo 
+**Cybersecurity, Networking, and Cloud Student | The Knowledge House 
 
 📌 **About Me:**  
-I am a dedicated **Cybersecurity, Networking, and Cloud Student** with a passion for understanding how technology and security work together. 
-Currently, I am learning the fundamentals of **operating systems, networking, troubleshooting, and cybersecurity best practices** to build a strong IT foundation.
+I am a dedicated Cybersecurity, Networking, and Cloud Student with a passion for understanding how technology and security work together.
+Currently, I am learning the fundamentals of operating systems, networking, troubleshooting, and cybersecurity best practices to add to my strong IT foundation. I have a background in being a Scrum Master, which helps me bring agile, collaborative, and efficient problem-solving approaches to every project I’m part of.
 
 💡 **Skills & Learning Path:**  
 - IT Fundamentals: Basic OS, Hardware, Networking, and Troubleshooting  
@@ -19,6 +19,7 @@ Currently, I am learning the fundamentals of **operating systems, networking, tr
 - Hands-on Labs in Threat Detection  
 
 📜 **Certifications, Badges, & Training:**  
+- Certified Scrum Master
 - [Cisco Introduction to Cybersecurity - Badge:](https://credly.com/user/yourname)  
 - [Cisco Operating Systems Basics - Badge:](https://credly.com/user/yourname)
 - CompTIA IT Fundamentals+ (In Progress)  
