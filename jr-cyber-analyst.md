@@ -1,6 +1,6 @@
 ## 🔹 Junior Cybersecurity Analyst
 
-👩‍💻(female) [Your Name]  
+👩‍💻(female) Timorra Rogo 
 **Junior Cybersecurity Analyst | Future Security Professional**  
 
 📌 **About Me:**  
